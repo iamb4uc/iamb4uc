@@ -4,6 +4,7 @@
 I'm an aspiring back-end engineer, system administrator, cyber-security analyst, and under-grad computer science student form India. I when I am not doing back-end stuff I work on my open-source projects such as my [dot-files](https://github.com/iamb4uc/dots) and other github projects you can see on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) which has all of my blog posts and news about upcomming events I want you to know about.  
 
 ### Languages and Tools 
+<p>
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -19,6 +20,7 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+</p><br>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
