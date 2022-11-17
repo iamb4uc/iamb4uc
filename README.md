@@ -22,10 +22,7 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </p><br><br><br>
 
-<table>
-<tr>
-<td>
-
+<p align="left">
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Make Your Own Torrent](http://iamb4uc.xyz/post/make-your-own-torrent/)
@@ -34,8 +31,6 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 - [Neovim Customization](http://iamb4uc.xyz/post/nvim-customization/)
 - [Anime](http://iamb4uc.xyz/anime/)
 <!-- BLOG-POST-LIST:END -->
+</p>
 
-</td>
-<td><img align="right" scr="img/anime-cute.gif" /><td>
-</tr>
-</table>
+<p align="right"><img src="https://media.tenor.com/w0sZ9BTB1-kAAAAC/anime-cute.gif"></p>
