@@ -1,7 +1,8 @@
 ![img](img/head.png)  
 ---
 
-I'm an aspiring back-end engineer, system administrator, cyber-security analyst, and under-grad computer science student form India. I when I am not doing back-end stuff I work on my open-source projects such as my [dot-files](https://github.com/iamb4uc/dots) and other github projects you can see on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) which has all of my blog posts and news about upcomming events I want you to know about.  
+<p align="left">I'm an aspiring back-end engineer, system administrator, cyber-security analyst, and under-grad computer science student form India. I when I am not doing back-end stuff I work on my open-source projects such as my [dot-files](https://github.com/iamb4uc/dots) and other github projects you can see on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) which has all of my blog posts and news about upcomming events I want you to know about.</p>
+<p align="right"><img src="https://media.tenor.com/w0sZ9BTB1-kAAAAC/anime-cute.gif"></p>
 
 ### 💼 Languages and Tools 
 <p>
@@ -22,7 +23,6 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </p><br><br><br>
 
-<p align="left">
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Make Your Own Torrent](http://iamb4uc.xyz/post/make-your-own-torrent/)
@@ -31,6 +31,5 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 - [Neovim Customization](http://iamb4uc.xyz/post/nvim-customization/)
 - [Anime](http://iamb4uc.xyz/anime/)
 <!-- BLOG-POST-LIST:END -->
-</p>
 
-<p align="right"><img src="https://media.tenor.com/w0sZ9BTB1-kAAAAC/anime-cute.gif"></p>
+
