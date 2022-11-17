@@ -1,10 +1,9 @@
 ![img](img/head.png)  
 ---
 
-I'm an aspiring back-end engineer, system administrator, cyber-security analyst, and under-grad computer science student form India. I when I am not doing back-end stuff I work on my open-source projects such as my [dot-files](https://github.com/iamb4uc/dots) and other github projects you can see on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) which has all of my blog posts and news about upcomming events I want you to know about.
+I'm an aspiring back-end engineer, system administrator, cyber-security analyst, and under-grad computer science student form India. I when I am not doing back-end stuff I work on my open-source projects such as my [dot-files](https://github.com/iamb4uc/dots) and other github projects you can see on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) which has all of my blog posts and news about upcomming events I want you to know about.  
 
----
-### Languages and Tools
+### Languages and Tools 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -27,10 +26,8 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-# 
 
-
-
+---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Make Your Own Torrent](http://iamb4uc.xyz/post/make-your-own-torrent/)
