@@ -3,7 +3,7 @@
 
 I'm an aspiring back-end engineer, system administrator, cyber-security analyst, and under-grad computer science student form India. I when I am not doing back-end stuff I work on my open-source projects such as my [dot-files](https://github.com/iamb4uc/dots) and other github projects you can see on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) which has all of my blog posts and news about upcomming events I want you to know about.  
 
-### Languages and Tools 
+### 💼 Languages and Tools 
 <p>
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -22,7 +22,7 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </p><br><br><br>
 
-### Blog posts
+### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Make Your Own Torrent](http://iamb4uc.xyz/post/make-your-own-torrent/)
 - [Lets Join Tilde Varsh](http://iamb4uc.xyz/post/lets-join-tilde-varsh/)
