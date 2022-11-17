@@ -36,6 +36,6 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <!-- BLOG-POST-LIST:END -->
 
 </td>
-<td>![](https://media.tenor.com/w0sZ9BTB1-kAAAAC/anime-cute.gif)</td>
+<td><img align="right" scr="img/anime-cute.gif" /><td>
 </tr>
 </table>
