@@ -36,6 +36,6 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <!-- BLOG-POST-LIST:END -->
 
 </td>
-<td>![](https://tenor.com/view/anime-feel-the-taste-cute-adorable-eyebrow-raise-gif-15510630)</td>
+<td><a href="https://tenor.com/view/anime-feel-the-taste-cute-adorable-eyebrow-raise-gif-15510630">Anime Feel The Taste Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></td>
 </tr>
 </table>
