@@ -1,5 +1,6 @@
-![img](img/head.png)
-
+![img](img/head.png)  
+**Cyber-mage**  
+I'm an indie back-end engineer, under-grad computer science student
 
 
 
