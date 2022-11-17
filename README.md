@@ -22,6 +22,10 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </p><br><br><br>
 
+<table>
+<tr>
+<td>
+
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Make Your Own Torrent](http://iamb4uc.xyz/post/make-your-own-torrent/)
@@ -30,3 +34,8 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 - [Neovim Customization](http://iamb4uc.xyz/post/nvim-customization/)
 - [Anime](http://iamb4uc.xyz/anime/)
 <!-- BLOG-POST-LIST:END -->
+
+</td>
+<td>![](https://tenor.com/view/anime-feel-the-taste-cute-adorable-eyebrow-raise-gif-15510630)</td>
+</tr>
+</table>
