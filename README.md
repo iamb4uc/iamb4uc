@@ -28,6 +28,7 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 
 ---
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Make Your Own Torrent](http://iamb4uc.xyz/post/make-your-own-torrent/)
