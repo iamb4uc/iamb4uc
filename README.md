@@ -2,7 +2,7 @@
 
 <br>
 
-I'm an aspiring back-end engineer, system administrator, cyber-security analyst, and under-grad computer science student form India. I when I am not doing back-end stuff I work on my open-source projects such as my [dot-files](https://github.com/iamb4uc/dots) and other github projects you can see on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) which has all of my blog posts and news about upcomming events I want you to know about.
+I'm an aspiring back-end engineer, system administrator, cyber-security analyst, and under-grad computer science student form India. When I am not doing back-end stuff I work on my open-source projects such as my [dot-files](https://github.com/iamb4uc/dots) and other github projects you can see on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) which has all of my blog posts and news about upcomming events I want you to know about.
 
 ### 💼 Languages and Tools 
 <p>
