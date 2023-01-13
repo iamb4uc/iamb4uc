@@ -25,11 +25,11 @@ I'm an aspiring back-end engineer, system administrator, cyber-security analyst,
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stoicism](/post/stoicism/)
 - [Make Your Own Torrent](/post/make-your-own-torrent/)
 - [Lets Join Tilde Varsh](/post/lets-join-tilde-varsh/)
 - [Neovim Customization](/post/nvim-customization/)
 - [About](/about/)
-- [Anime](/anime/)
 <!-- BLOG-POST-LIST:END -->
 
 
