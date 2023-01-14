@@ -2,15 +2,15 @@
 
 <br>
 
-I'm Swapnil, an aspiring network engineer and computer science student with a passion for creating efficient and secure systems. I have few years of experience in practicing computer security, and other concepts like data-structure. My expertise lies in computer networks, system administration, and cybersecurity, threat analysis. 
-I am currently working on various open-source projects on GitHub, including my [dotfiles](https://github.com/iamb4uc/dots) and other projects that you can see on my profile. Additionally, I run a website called [iamb4uc.xyz](https://iamb4uc.xyz/) which contains my blog posts and updates on upcoming events.
+Hey there! I'm Swapnil, an aspiring network engineer, computer science student and an enthusiast of system administration and cyber-security. I've got few years of experience under my belt working with various programming languages like C, Python, and am pretty knowledgeable in the field of computer/network security. My expertise lies in developing efficient and secure systems, and I am constantly on the lookout for new challenges and opportunities to learn and grow.
+
+When I'm not coding, you can find me working on various open-source projects on GitHub, including my [dotfiles](https://github.com/iamb4uc/dots) and other projects that you can check out on my profile. I also run a website called [iamb4uc.xyz](https://iamb4uc.xyz) where I post blogs and updates on upcoming events. I'm always open to connecting with like-minded people, so don't hesitate to drop me a line!
 
 ### 💼 Languages and Tools 
 <p>
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
