@@ -2,7 +2,7 @@
 
 <br>
 
-I'm Swapnil, an aspiring back-end developer and computer science student with a passion for creating efficient and secure systems. I have few years of experience in practicing computer security, and other concepts like data-structure. My expertise lies in back-end development, system administration, and cybersecurity, threat analysis. 
+I'm Swapnil, an aspiring network engineer and computer science student with a passion for creating efficient and secure systems. I have few years of experience in practicing computer security, and other concepts like data-structure. My expertise lies in computer networks, system administration, and cybersecurity, threat analysis. 
 I am currently working on various open-source projects on GitHub, including my [dotfiles](https://github.com/iamb4uc/dots) and other projects that you can see on my profile. Additionally, I run a website called [iamb4uc.xyz](https://iamb4uc.xyz/) which contains my blog posts and updates on upcoming events.
 
 ### 💼 Languages and Tools 
