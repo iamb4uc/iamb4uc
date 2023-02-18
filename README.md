@@ -26,11 +26,11 @@ When I'm not coding, you can find me working on various open-source projects on 
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Impact of AI in Education Sector](/post/impact-of-ai-in-education-sector/)
-- [Stoicism](/post/stoicism/)
-- [Make Your Own Torrent](/post/make-your-own-torrent/)
-- [Lets Join Tilde Varsh](/post/lets-join-tilde-varsh/)
-- [Neovim Customization](/post/nvim-customization/)
+- [GRUB - *Literally for coomies*](https://iamb4uc.xyz/post/grub-literally-for-coomies/)
+- [Impact of AI in Education Sector](https://iamb4uc.xyz/post/impact-of-ai-in-education-sector/)
+- [Stoicism](https://iamb4uc.xyz/post/stoicism/)
+- [Make Your Own Torrent](https://iamb4uc.xyz/post/make-your-own-torrent/)
+- [Lets Join Tilde Varsh](https://iamb4uc.xyz/post/lets-join-tilde-varsh/)
 <!-- BLOG-POST-LIST:END -->
 
 
