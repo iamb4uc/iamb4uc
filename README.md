@@ -22,8 +22,8 @@ Apart from programming, I enjoy reading books on various topics,
 listening to music, and playing video games. I also love to learn new
 things and challenge myself to improve my skills.
 
-Feel free to take a look at my GitHub repositories like my [dotfile]
-(https://github.com/iamb4uc/dots), my custom build of suckless's
+Feel free to take a look at my GitHub repositories like my [dotfile](https://github.com/iamb4uc/dots),
+my custom build of suckless's
 [dwm](https://github.com/iamb4uc/dwm), among many others, also check
 out my website for some goofy blogs and giggles. If you want to connect
 with me please reach out to me via my [mail](mailto:b4uc@tuta.io) if
