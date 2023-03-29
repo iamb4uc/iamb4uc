@@ -3,7 +3,7 @@
 <br>
 
 # About Me
-Hi there! I'm [your name], a Computer Science(BCA) student with a
+Hi there! I'm Swapnil a.k.a *b4uc*, a Computer Science(BCA) student with a
 strong passion for low-level programming languages, embedded systems,
 and Unix-like operating systems.
 
