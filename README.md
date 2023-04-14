@@ -1,4 +1,4 @@
-# Hey there 👋
+Hey there 👋
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
