@@ -1,10 +1,6 @@
 # 💫 About Me:
 I am a systems-level engineer with a passion for UNIX-like operating systems as well as other Free-and-Open-source software and a knack for hardware tinkering. I love digging into low-level details to understand how things really work, and using that knowledge to build robust, reliable software. Whether it's optimizing performance, improving security, or just exploring new possibilities, I'm always looking for ways to push the boundaries of what's possible with code. Follow me for projects and insights on all things systems and hardware!
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamb4uc) 
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,8 +24,8 @@ I am a systems-level engineer with a passion for UNIX-like operating systems as 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-iamb4uc.vercel.app/api?username=iamb4uc&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamb4uc&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats-iamb4uc.vercel.app/api?username=iamb4uc&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamb4uc&theme=gruvbox&hide_border=false)  
 ![](https://github-readme-stats-iamb4uc.vercel.app/api/top-langs/?username=iamb4uc&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
