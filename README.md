@@ -26,17 +26,15 @@ I am a systems-level engineer with a passion for UNIX-like operating systems as 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-iamb4uc.vercel.app/api?username=iamb4uc&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamb4uc&theme=gruvbox&hide_border=false)  
-![](https://github-readme-stats-iamb4uc.vercel.app/api/top-langs/?username=iamb4uc&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🏆 GitHub Trophies
+![](https://github-readme-stats-iamb4uc.vercel.app/api/top-langs/?username=iamb4uc&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 ![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### 💰 You can help me by Donating
+## 💰 You can help me by Donating
 Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)  
 Ethereum: 0x2F78287646Acd6e3D40cCb6403C7d2b4b663dE48  
 Monero: 47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDLEUuEEidV6Ev9uGW5VVTDJs91  
 
-### 📖 Blog posts
+## 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [GRUB - *Literally for coomies*](https://iamb4uc.xyz/post/grub-literally-for-coomies/)
 - [Impact of AI in Education Sector](https://iamb4uc.xyz/post/impact-of-ai-in-education-sector/)
