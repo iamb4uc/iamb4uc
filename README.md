@@ -31,10 +31,6 @@ I am a systems-level engineer with a passion for UNIX-like operating systems as 
 ![](https://github-readme-stats-iamb4uc.vercel.app/api/top-langs/?username=iamb4uc&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 ![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)  
 
-## 💰 You can help me by Donating
-Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)  
-Ethereum: 0x2F78287646Acd6e3D40cCb6403C7d2b4b663dE48  
-Monero: 47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDLEUuEEidV6Ev9uGW5VVTDJs91  
 
 ## 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -45,3 +41,7 @@ Monero: 47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDLE
 - [Lets Join Tilde Varsh](https://iamb4uc.xyz/post/lets-join-tilde-varsh/)
 <!-- BLOG-POST-LIST:END -->
 
+## 💰 You can help me by Donating
+Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)  
+Ethereum: 0x2F78287646Acd6e3D40cCb6403C7d2b4b663dE48  
+Monero: 47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDLEUuEEidV6Ev9uGW5VVTDJs91  
