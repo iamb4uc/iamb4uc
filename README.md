@@ -9,5 +9,3 @@ Hey there 👋
 - [Lets Join Tilde Varsh](https://iamb4uc.xyz/post/lets-join-tilde-varsh/)
 <!-- BLOG-POST-LIST:END -->
 
-[![](https://visitcount.itsvg.in/api?id=iamb4uc&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
