@@ -43,9 +43,9 @@ Monero: 47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDLE
 ## 📖 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GRUB - *Literally for coomies*](https://iamb4uc.xyz/post/grub-literally-for-coomies/)
-- [Impact of AI in Education Sector](https://iamb4uc.xyz/post/impact-of-ai-in-education-sector/)
-- [Stoicism](https://iamb4uc.xyz/post/stoicism/)
-- [Make Your Own Torrent](https://iamb4uc.xyz/post/make-your-own-torrent/)
-- [Lets Join Tilde Varsh](https://iamb4uc.xyz/post/lets-join-tilde-varsh/)
+- [GRUB - *Literally for coomies*](http://iamb4uc.xyz/post/grub-literally-for-coomies/)
+- [Impact of AI in Education Sector](http://iamb4uc.xyz/post/impact-of-ai-in-education-sector/)
+- [Stoicism](http://iamb4uc.xyz/post/stoicism/)
+- [Make Your Own Torrent](http://iamb4uc.xyz/post/make-your-own-torrent/)
+- [Lets Join Tilde Varsh](http://iamb4uc.xyz/post/lets-join-tilde-varsh/)
 <!-- BLOG-POST-LIST:END -->
