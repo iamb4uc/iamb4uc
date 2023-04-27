@@ -1,4 +1,5 @@
-[![head](./img/head.png)](https://iamb4uc.xyz)
+[![head](https://iamb4uc.xyz/img/wp.gif)](https://iamb4uc.xyz)
+
 
 ## 💫 About:
 
