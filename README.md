@@ -46,13 +46,11 @@ You can contact me via following this [link](https://iamb4uc.xyz/contact/)
 ![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
-```
-Buy me a coffee: https://buymeacoffee.com/b4uc
+Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)
 
-Ethereum: 0x2F78287646Acd6e3D40cCb6403C7d2b4b663dE48  
+Ethereum: `0x2F78287646Acd6e3D40cCb6403C7d2b4b663dE48`
 
-Monero: 47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDLEUuEEidV6Ev9uGW5VVTDJs91
-```
+Monero: `47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDLEUuEEidV6Ev9uGW5VVTDJs91`
 
 
 
