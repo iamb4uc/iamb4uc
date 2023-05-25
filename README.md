@@ -23,17 +23,17 @@ You can contact me via following this [link](https://iamb4uc.xyz/contact/)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 Stats:
+<!-- ## 📊 Stats:
 
 ![](https://github-readme-stats-iamb4uc.vercel.app/api?username=iamb4uc&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats-iamb4uc.vercel.app/api/top-langs/?username=iamb4uc&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamb4uc&theme=default&hide_border=false)  
 
-![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4) -->
 
 ## 💰 You can help me by Donating
 Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)
