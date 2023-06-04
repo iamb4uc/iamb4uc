@@ -52,3 +52,5 @@ Monero: `47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDL
 - [Impact of AI in Education Sector](http://iamb4uc.xyz/post/impact-of-ai-in-education-sector/)
 - [Stoicism](http://iamb4uc.xyz/post/stoicism/)
 <!-- BLOG-POST-LIST:END -->
+
+***DUE TO SOME PERSONAL LIFE STUFF AND EXAMS, I WONT BE ABLE TO WRITE ANY COMMITS OR REPLY TO ANY MESSAGES OR EMAILS.***
