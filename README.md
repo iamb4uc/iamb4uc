@@ -23,12 +23,12 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- ## 📊 Stats:
+## 📊 Stats:
 
 ![](https://github-readme-stats-iamb4uc.vercel.app/api?username=iamb4uc&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats-iamb4uc.vercel.app/api/top-langs/?username=iamb4uc&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamb4uc&theme=default&hide_border=false)  
 
-![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
 Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)
