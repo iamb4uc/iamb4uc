@@ -43,9 +43,9 @@ Monero: `47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDL
 ## BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup QEMU and KVM in Void Linux](http://iamb4uc.xyz/post/setup-qemu-and-kvm-in-void-linux/)
 - [On Social Media](http://iamb4uc.xyz/post/onsocialmedia/)
 - [Ghost Mode](http://iamb4uc.xyz/post/ghost-mode/)
 - [GRUB - *Literally for coomies*](http://iamb4uc.xyz/post/grub-literally-for-coomies/)
 - [Impact of AI in Education Sector](http://iamb4uc.xyz/post/impact-of-ai-in-education-sector/)
-- [Stoicism](http://iamb4uc.xyz/post/stoicism/)
 <!-- BLOG-POST-LIST:END -->
