@@ -27,7 +27,6 @@
 
 ## STATS:
 
-![](https://github-readme-stats-iamb4uc.vercel.app/api?username=iamb4uc&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats-iamb4uc.vercel.app/api/top-langs/?username=iamb4uc&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamb4uc&theme=default&hide_border=false)
 
 ![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
