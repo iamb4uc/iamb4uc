@@ -31,12 +31,6 @@
 ![Gentoo](https://img.shields.io/badge/Gentoo-%23000000.svg?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Tails Os](https://img.shields.io/badge/Tails%20-%23000000.svg?style=for-the-badge&logo=tails&logoColor=white)
 
-## STATS:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamb4uc&theme=default&hide_border=false)
-
-![](https://github-profile-trophy.vercel.app/?username=iamb4uc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ## DONATE:
 
 Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)
