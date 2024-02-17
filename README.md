@@ -42,9 +42,9 @@ Monero: `47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDL
 ## BLOGS
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reverse Engineer a Private API With MITM Proxy](http://iamb4uc.xyz/post/how-to-reverse-engineer-a-private-api-with-mitm-proxy/)
+- [Make a Local Email Spam Filter](http://iamb4uc.xyz/post/make-a-local-email-spam-filter/)
+- [Reverse-Engineering Private APIs with MITM Proxy](http://iamb4uc.xyz/post/how-to-reverse-engineer-a-private-api-with-mitm-proxy/)
 - [Setup QEMU and KVM in Void Linux](http://iamb4uc.xyz/post/setup-qemu-and-kvm-in-void-linux/)
 - [On Social Media](http://iamb4uc.xyz/post/onsocialmedia/)
 - [Ghost Mode](http://iamb4uc.xyz/post/ghost-mode/)
-- [GRUB - *Literally for coomies*](http://iamb4uc.xyz/post/grub-literally-for-coomies/)
 <!-- BLOG-POST-LIST:END -->
