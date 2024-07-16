@@ -1,4 +1,4 @@
-[![head](https://iamb4uc.xyz/img/wp.gif)](https://iamb4uc.xyz)
+[![head](https://iamb4uc.xyz/img/main.gif)](https://iamb4uc.xyz)
 
 ## ABOUT:
 
