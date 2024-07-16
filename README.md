@@ -13,23 +13,19 @@
 
 **I am a programmer and a cybersecurity student with a passion for UNIX\* operating systems as well as other Free-and-Open-source software and a knack for hardware tinkering. I love digging into low-level details to understand how things really work, and using that knowledge to build and suggest robust, reliable software hardening solutions. Whether it's optimizing performance, improving security, or just exploring new possibilities, I'm always looking for ways to push the boundaries of what's possible with code. Follow me for projects and insights on all things systems and hardware! You can contact me via following this [link](https://iamb4uc.xyz/about/)**
 
-## LANGUAGE KNOWN:
+## SKILLS:
 
-![Wireshark](https://img.shields.io/badge/Wireshark-%23000000.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%23000000.svg?style=for-the-badge&logo=lua&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Nginx](https://img.shields.io/badge/nginx-%23000000.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%23000000.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Void_Linux-%23000000.svg?style=for-the-badge&logo=void-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-%23000000.svg?style=for-the-badge&logo=gentoo&logoColor=white)
-![Tails Os](https://img.shields.io/badge/Tails%20-%23000000.svg?style=for-the-badge&logo=tails&logoColor=white)
+|  |  |
+|---|---|
+| **Core** | Operating Systems, Computer Networks, Virtualization, Computer System Architecture, Cloud Computing, Database Management Systems. |
+| **Languages** | C, C++, Bash, Python, Php, Java. |
+| **Frameworks** | CISSP, NIST RMF, NIST CSF, OWASP, MITRE ATT&CK, TIBER-EU |
+| **Tools** | Nmap, Wireshark, Burp Suite, Metasploit, QEMU / KVM, VMware, Docker, Git, Nessus, Snort, SIEM (Splunk, Chronicle). |
+| **Database** | MariaDB / MySQL, Oracle. |
+| **Others** | LaTeX, Markdown, GNU Make, GNU Debugger (GDB). |
+| **Soft Skills** | Communication, Detail Oriented, Time Management, Collaboration, Adaptability. |
+| | |
+
 
 ## DONATE:
 
