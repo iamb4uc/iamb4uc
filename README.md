@@ -40,9 +40,9 @@ UPI: `iamb4uc@axl`
 ## BLOGS
 
 <!-- BLOG-POST-LIST:START -->
+- [Lets Make A VPN &lpar;StrongSwan&rpar;](http://iamb4uc.xyz/post/make-a-vpn-strongswan/)
 - [Make a Local Email Spam Filter](http://iamb4uc.xyz/post/make-a-local-email-spam-filter/)
 - [Reverse-Engineering Private APIs with MITM Proxy](http://iamb4uc.xyz/post/how-to-reverse-engineer-a-private-api-with-mitm-proxy/)
 - [Setup QEMU and KVM in Void Linux](http://iamb4uc.xyz/post/setup-qemu-and-kvm-in-void-linux/)
 - [On Social Media](http://iamb4uc.xyz/post/onsocialmedia/)
-- [Ghost Mode](http://iamb4uc.xyz/post/ghost-mode/)
 <!-- BLOG-POST-LIST:END -->
