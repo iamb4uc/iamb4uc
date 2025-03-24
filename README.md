@@ -40,9 +40,9 @@ UPI: `iamb4uc@axl`
 ## BLOGS
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Go &lpar;Part 1 - Getting Started&rpar;](http://iamb4uc.xyz/post/learning-go-part-1/)
-- [10x Your Productivity Using Tmux](http://iamb4uc.xyz/post/10x-productivity-using-tmux/)
-- [Lets Make A VPN &lpar;StrongSwan&rpar;](http://iamb4uc.xyz/post/make-a-vpn-strongswan/)
-- [Make a Local Email Spam Filter](http://iamb4uc.xyz/post/make-a-local-email-spam-filter/)
-- [Reverse-Engineering Private APIs with MITM Proxy](http://iamb4uc.xyz/post/how-to-reverse-engineer-a-private-api-with-mitm-proxy/)
+- [Learning Go &lpar;Part 1 - Getting Started&rpar;](https://iamb4uc.xyz/post/learning-go-part-1/)
+- [10x Your Productivity Using Tmux](https://iamb4uc.xyz/post/10x-productivity-using-tmux/)
+- [Lets Make A VPN &lpar;StrongSwan&rpar;](https://iamb4uc.xyz/post/make-a-vpn-strongswan/)
+- [Make a Local Email Spam Filter](https://iamb4uc.xyz/post/make-a-local-email-spam-filter/)
+- [Reverse-Engineering Private APIs with MITM Proxy](https://iamb4uc.xyz/post/how-to-reverse-engineer-a-private-api-with-mitm-proxy/)
 <!-- BLOG-POST-LIST:END -->
