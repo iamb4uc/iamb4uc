@@ -40,9 +40,9 @@ UPI: `iamb4uc@axl`
 ## BLOGS
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSOC: Building an Open Source SOC Lab That Does Not Suck](https://iamb4uc.xyz/post/soc-home-lab-part1-wazuh/)
 - [Don’t Be a Tech Illiterate and Use Tech Like a Know-All](https://iamb4uc.xyz/post/dont-be-a-tech-illiterate-and-use-ai-for-shits-and-giggles/)
 - [Learning Go &lpar;Part 1 - Getting Started&rpar;](https://iamb4uc.xyz/archived/learning-go-part-1/)
 - [10x Your Productivity Using Tmux](https://iamb4uc.xyz/post/10x-productivity-using-tmux/)
 - [Lets Make A VPN &lpar;StrongSwan&rpar;](https://iamb4uc.xyz/post/make-a-vpn-strongswan/)
+- [Make a Local Email Spam Filter](https://iamb4uc.xyz/post/make-a-local-email-spam-filter/)
 <!-- BLOG-POST-LIST:END -->
