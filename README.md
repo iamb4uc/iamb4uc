@@ -11,7 +11,12 @@
 ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝      ╚═╝ ╚═════╝  ╚═════╝
 ```
 
-**I am a programmer and a cybersecurity student with a passion for UNIX\* operating systems as well as other Free-and-Open-source software and a knack for hardware tinkering. I love digging into low-level details to understand how things really work, and using that knowledge to build and suggest robust, reliable software hardening solutions. Whether it's optimizing performance, improving security, or just exploring new possibilities, I'm always looking for ways to push the boundaries of what's possible with code. Follow me for projects and insights on all things systems and hardware! You can contact me via following this [link](https://iamb4uc.xyz/about/)**
+security, UNIX, FOSS. that's mostly it.
+
+i do blue team work, SOC, NOC, and enough red team stuff to know what i'm
+actually defending against. i write my own tools when the existing ones are
+bad, which is often. everything runs on UNIX, everything is open source, that's
+not up for debate.
 
 ## SKILLS:
 
