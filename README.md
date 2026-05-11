@@ -18,18 +18,7 @@ actually defending against. i write my own tools when the existing ones are
 bad, which is often. everything runs on UNIX, everything is open source, that's
 not up for debate.
 
-## resume
-<embed class="resume-pdf" src="https://iamb4uc.xyz/files/resume.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" type="application/pdf">
-
-## donate:
-
-Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)
-
-Ethereum: `0x2F78287646Acd6e3D40cCb6403C7d2b4b663dE48`
-
-Monero: `47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDLEUuEEidV6Ev9uGW5VVTDJs91`
-
-UPI: `iamb4uc@axl`
+**Check out my resume here: [iamb4uc.xyz/resume](https://iamb4uc.xyz/resume)**
 
 ## blogs
 
