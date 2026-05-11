@@ -19,9 +19,9 @@ bad, which is often. everything runs on UNIX, everything is open source, that's
 not up for debate.
 
 ## resume
-<embed class="resume-pdf" src="https://iamb4uc.xyz/files/resume.pdf" type="application/pdf">
+<embed class="resume-pdf" src="https://iamb4uc.xyz/files/resume.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" type="application/pdf">
 
-## DONATE:
+## donate:
 
 Buy me a coffee: [@b4uc](https://buymeacoffee.com/b4uc)
 
@@ -31,7 +31,7 @@ Monero: `47kE91oAWUsC7dX2wpP2MhdV5WRA3iv3YgptaTTxXdeqF7j9XaYQUgzbk12Xb4Yf8RJxgDL
 
 UPI: `iamb4uc@axl`
 
-## BLOGS
+## blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [Don’t Be a Tech Illiterate and Use Tech Like a Know-All](https://iamb4uc.xyz/post/dont-be-a-tech-illiterate-and-use-ai-for-shits-and-giggles/)
