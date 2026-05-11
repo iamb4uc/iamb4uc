@@ -1,6 +1,6 @@
 [![head](https://iamb4uc.xyz/img/main.gif)](https://iamb4uc.xyz)
 
-## ABOUT:
+## about:
 
 ```
 ██╗ █████╗ ███╗   ███╗██████╗ ██╗  ██╗██╗   ██╗ ██████╗
@@ -18,19 +18,8 @@ actually defending against. i write my own tools when the existing ones are
 bad, which is often. everything runs on UNIX, everything is open source, that's
 not up for debate.
 
-## SKILLS:
-
-|  |  |
-|---|---|
-| **Core** | Operating Systems, Computer Networks, Virtualization, Computer System Architecture, Cloud Computing, Database Management Systems. |
-| **Languages** | C, C++, Bash, Python, Php, Java. |
-| **Frameworks** | CISSP, NIST RMF, NIST CSF, OWASP, MITRE ATT&CK, TIBER-EU |
-| **Tools** | Nmap, Wireshark, Burp Suite, Metasploit, QEMU / KVM, VMware, Docker, Git, Nessus, Snort, SIEM (Splunk, Chronicle). |
-| **Database** | MariaDB / MySQL, Oracle. |
-| **Others** | LaTeX, Markdown, GNU Make, GNU Debugger (GDB). |
-| **Soft Skills** | Communication, Detail Oriented, Time Management, Collaboration, Adaptability. |
-| | |
-
+## resume
+<embed class="resume-pdf" src="https://iamb4uc.xyz/files/resume.pdf" type="application/pdf">
 
 ## DONATE:
 
