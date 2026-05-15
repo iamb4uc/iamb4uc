@@ -23,9 +23,9 @@ not up for debate.
 ## blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSOC: Setting up the SIEM &lpar;Wazuh Server&rpar;](https://iamb4uc.xyz/post/opensoc-wazuh-setup/)
 - [OpenSOC: Building an Open Source SOC Lab That Does Not Suck](https://iamb4uc.xyz/post/opensoc-intro/)
 - [Don’t Be a Tech Illiterate and Use Tech Like a Know-All](https://iamb4uc.xyz/post/dont-be-a-tech-illiterate-and-use-ai-for-shits-and-giggles/)
 - [10x Your Productivity Using Tmux](https://iamb4uc.xyz/post/10x-productivity-using-tmux/)
 - [Lets Make A VPN &lpar;StrongSwan&rpar;](https://iamb4uc.xyz/post/make-a-vpn-strongswan/)
-- [Make a Local Email Spam Filter](https://iamb4uc.xyz/post/make-a-local-email-spam-filter/)
 <!-- BLOG-POST-LIST:END -->
