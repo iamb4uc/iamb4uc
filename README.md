@@ -1,22 +1,20 @@
-[![head](https://iamb4uc.xyz/img/main.gif)](https://iamb4uc.xyz)
+[![head](https://iamb4uc.xyz/img/apu_band.gif)](https://iamb4uc.xyz)
 
 ## about:
 
 ```
-██╗ █████╗ ███╗   ███╗██████╗ ██╗  ██╗██╗   ██╗ ██████╗
-██║██╔══██╗████╗ ████║██╔══██╗██║  ██║██║   ██║██╔════╝
-██║███████║██╔████╔██║██████╔╝███████║██║   ██║██║
-██║██╔══██║██║╚██╔╝██║██╔══██╗╚════██║██║   ██║██║
-██║██║  ██║██║ ╚═╝ ██║██████╔╝     ██║╚██████╔╝╚██████╗
-╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝      ╚═╝ ╚═════╝  ╚═════╝
+██ ▄████▄ ██▄  ▄██ █████▄ ██  ██ ██  ██ ▄█████ 
+██ ██▄▄██ ██ ▀▀ ██ ██▄▄██ ▀█████ ██  ██ ██     
+██ ██  ██ ██    ██ ██▄▄█▀     ██ ▀████▀ ▀█████ 
 ```
 
-security, UNIX, FOSS. that's mostly it.
+security, linux, foss. that's mostly it. 
 
-i do blue team work, SOC, NOC, and enough red team stuff to know what i'm
-actually defending against. i write my own tools when the existing ones are
-bad, which is often. everything runs on UNIX, everything is open source, that's
-not up for debate.
+I do blue team work, SOC, NOC, and enough red team stuff to know what I'm
+actually defending against and sometimes I fix AI slop by breaking AI slop. I
+write my own tools when the existing ones are bad, which is often. everything
+runs on linux and unix (most of the time), everything is free and open source,
+that's not up for debate.
 
 **Check out my resume here: [iamb4uc.xyz/resume](https://iamb4uc.xyz/resume)**
 
