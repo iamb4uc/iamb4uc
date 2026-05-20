@@ -1,7 +1,5 @@
 [![head](https://iamb4uc.xyz/img/apu_band.gif)](https://iamb4uc.xyz)
 
-## about:
-
 ```
 ██ ▄████▄ ██▄  ▄██ █████▄ ██  ██ ██  ██ ▄█████ 
 ██ ██▄▄██ ██ ▀▀ ██ ██▄▄██ ▀█████ ██  ██ ██     
@@ -14,11 +12,12 @@ I do blue team work, SOC, NOC, and enough red team stuff to know what I'm
 actually defending against and sometimes I fix AI slop by breaking AI slop. I
 write my own tools when the existing ones are bad, which is often. everything
 runs on linux and unix (most of the time), everything is free and open source,
-that's not up for debate.
+that's not up for debate. You can learn more about me in my
+[website's about page](https://iamb4uc.xyz/about)
 
 **Check out my resume here: [iamb4uc.xyz/resume](https://iamb4uc.xyz/resume)**
 
-## blogs
+**Check out by brain trash (blog):**
 
 <!-- BLOG-POST-LIST:START -->
 - [Lets Discuss AI](https://iamb4uc.xyz/post/lets-discuss-ai/)
