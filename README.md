@@ -22,9 +22,9 @@ that's not up for debate. You can learn more about me in my
 **Check out by brain trash (blog):**
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSOC: Wazuh Agent Setup for Linux Endpoints](https://iamb4uc.xyz/post/opensoc-wazuh-agent-setup-for-linux-endpoints/)
 - [Lets Discuss AI](https://iamb4uc.xyz/post/lets-discuss-ai/)
 - [OpenSOC: Setting up the SIEM &lpar;Wazuh Server&rpar;](https://iamb4uc.xyz/post/opensoc-wazuh-setup/)
 - [OpenSOC: Building an Open Source SOC Lab That Does Not Suck](https://iamb4uc.xyz/post/opensoc-intro/)
 - [Don’t Be a Tech Illiterate and Use Tech Like a Know-All](https://iamb4uc.xyz/post/dont-be-a-tech-illiterate-and-use-ai-for-shits-and-giggles/)
-- [10x Your Productivity Using Tmux](https://iamb4uc.xyz/post/10x-productivity-using-tmux/)
 <!-- BLOG-POST-LIST:END -->
